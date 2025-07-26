@@ -21,7 +21,7 @@ This is a **3-day solo build** to challenge myself to:
 
 ### ⏳ Current Status
 - [x] Day 1: Planning & file parsing prototyping
-- [ ] Day 2: UI layout, file interaction
+- [x] Day 2: UI layout, file interaction
 - [ ] Day 3: Packaging, README polish, testing
 
 I'll be posting updates here and on [LinkedIn](www.linkedin.com/in/praneeth-varma-kopperla), so stay tuned!

@@ -122,13 +122,13 @@ MIT License. Use, modify, and share freely.
 ## 🖼️ Screenshots
 
 ### Login Screen
-![Login Screen](VaultLocker/ss/homepage)
+![Login Screen](ss/homepage)
 
 ### File Vault (Dashboard)
-![File Vault](vaultlocker/ss/files)
+![File Vault](ss/files)
 
 ### Change Password Dialog
-![Change Password](vaultlocker/ss/password)
+![Change Password](ss/password)
 
 ### File Space/Usage Example
-![File Space](vaultlocker/ss/filespace) 
+![File Space](ss/filespace) 

@@ -35,4 +35,13 @@ def login_user(username, password):
     if bcrypt.checkpw(password.encode(), hashed):
         return True, "Login successful."
     else:
-        return False, "Incorrect password." 
+        return False, "Incorrect password."
+
+def update_user_password(username, new_password):
+    users = load_users()
+    if username not in users:
+        return False
+    hashed = bcrypt.hashpw(new_password.encode(), bcrypt.gensalt())
+    users[username] = hashed.decode()
+    save_users(users)
+    return True 

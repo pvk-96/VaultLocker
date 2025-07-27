@@ -1,0 +1,53 @@
+[theme:MidnightBlue]
+settings {
+    TFrame {
+        background: #101a2b;
+    }
+    TLabel {
+        background: #101a2b;
+        foreground: #e0e6f0;
+        font: Arial 11;
+    }
+    TButton {
+        background: #18294a;
+        foreground: #e0e6f0;
+        bordercolor: #22335a;
+        focusthickness: 2;
+        focuscolor: #3a4d7a;
+        font: Arial 11 bold;
+        padding: 6 4;
+    }
+    TEntry {
+        fieldbackground: #18294a;
+        foreground: #e0e6f0;
+        bordercolor: #22335a;
+        font: Arial 11;
+    }
+    TListbox, Listbox {
+        background: #18294a;
+        foreground: #e0e6f0;
+        selectbackground: #28406e;
+        selectforeground: #ffffff;
+        bordercolor: #22335a;
+        font: Arial 11;
+    }
+    TMenubutton, TCombobox {
+        background: #18294a;
+        foreground: #e0e6f0;
+        bordercolor: #22335a;
+        font: Arial 11;
+    }
+    TScrollbar {
+        background: #22335a;
+        troughcolor: #101a2b;
+    }
+    TPanedwindow {
+        background: #101a2b;
+        bordercolor: #22335a;
+    }
+    TStatusbar, Statusbar, .statusbar {
+        background: #18294a;
+        foreground: #b0b8c9;
+        font: Arial 10 italic;
+    }
+} 

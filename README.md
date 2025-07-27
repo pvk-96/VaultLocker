@@ -122,7 +122,7 @@ MIT License. Use, modify, and share freely.
 ## 🖼️ Screenshots
 
 ### Login Screen
-![Login Screen](vaultlocker/ss/homepage)
+![Login Screen](VaultLocker/ss/homepage)
 
 ### File Vault (Dashboard)
 ![File Vault](vaultlocker/ss/files)

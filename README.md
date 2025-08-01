@@ -13,10 +13,10 @@ A secure, offline desktop vault application for storing your sensitive files, no
 - **Change password** (with automatic re-encryption of all your files)
 - **Auto-lock on inactivity** (vault locks after 2 minutes of no activity)
 - **Password strength meter** (real-time feedback during registration and password change)
-- **Show/hide password toggle** for easier entry
-- **Midnight blue dark mode** for a polished, modern look
-- **Status bar notifications** for all major actions
-- **Cross-platform**: Works on Windows and Linux
+- **Show/hide password toggle** for easier entry.
+- **Midnight blue dark mode** for a polished, modern look.
+- **Status bar notifications** for all major actions.
+- **Cross-platform**: Works on Windows and Linux.
 
 ---
 

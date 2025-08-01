@@ -1,3 +1,4 @@
+# This is the Authorization code
 import json
 import os
 import bcrypt

@@ -22,6 +22,7 @@ A secure, offline desktop vault application for storing your sensitive files, no
 
 ## 🛡️ Security Highlights
 
+
 - Passwords are hashed with bcrypt (never stored in plaintext)
 - Files are encrypted with AES (Fernet) using a key derived from your password (PBKDF2 + salt)
 - Each file is associated with its owner—users cannot access each other's files
